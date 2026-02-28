@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f351cd3c.css",
-    "main.js": "/static/js/main.c0230b7b.js",
-    "static/media/0003.gif": "/static/media/0003.fa2472940a60b01fa9d5.gif",
-    "static/media/1160.gif": "/static/media/1160.de0bc48956f8a2a6982f.gif",
-    "static/media/0025.gif": "/static/media/0025.1c09edfa24f8cb83de88.gif",
-    "static/media/0031.gif": "/static/media/0031.defd3aa0cfe4ab7bd21c.gif",
-    "static/media/0405.gif": "/static/media/0405.3b899c891cfc5052d7dc.gif",
-    "static/media/logo.svg": "/static/media/logo.53d4d321a5d4b8364542608b3186e30b.svg",
-    "index.html": "/index.html",
-    "main.f351cd3c.css.map": "/static/css/main.f351cd3c.css.map",
-    "main.c0230b7b.js.map": "/static/js/main.c0230b7b.js.map"
+    "main.css": "/mayabGymBuddy/static/css/main.bf8ff231.css",
+    "main.js": "/mayabGymBuddy/static/js/main.087bd8df.js",
+    "static/media/proteina.png": "/mayabGymBuddy/static/media/proteina.f17fa268de9346cd7cfa.png",
+    "static/media/creatina.png": "/mayabGymBuddy/static/media/creatina.24c5631dc710d80cc644.png",
+    "static/media/nutricion.webp": "/mayabGymBuddy/static/media/nutricion.53ba0f184312eaa79707.webp",
+    "static/media/0003.gif": "/mayabGymBuddy/static/media/0003.fa2472940a60b01fa9d5.gif",
+    "static/media/SharpSlab-Bold.ttf": "/mayabGymBuddy/static/media/SharpSlab-Bold.ac2f05c5a098a73e22c9.ttf",
+    "static/media/1160.gif": "/mayabGymBuddy/static/media/1160.de0bc48956f8a2a6982f.gif",
+    "static/media/0025.gif": "/mayabGymBuddy/static/media/0025.1c09edfa24f8cb83de88.gif",
+    "static/media/0031.gif": "/mayabGymBuddy/static/media/0031.defd3aa0cfe4ab7bd21c.gif",
+    "static/media/0405.gif": "/mayabGymBuddy/static/media/0405.3b899c891cfc5052d7dc.gif",
+    "static/media/logo.svg": "/mayabGymBuddy/static/media/logo.53d4d321a5d4b8364542608b3186e30b.svg",
+    "index.html": "/mayabGymBuddy/index.html",
+    "main.bf8ff231.css.map": "/mayabGymBuddy/static/css/main.bf8ff231.css.map",
+    "main.087bd8df.js.map": "/mayabGymBuddy/static/js/main.087bd8df.js.map"
   },
   "entrypoints": [
-    "static/css/main.f351cd3c.css",
-    "static/js/main.c0230b7b.js"
+    "static/css/main.bf8ff231.css",
+    "static/js/main.087bd8df.js"
   ]
 }
