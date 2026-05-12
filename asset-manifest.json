@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mayabGymBuddy/static/css/main.bf8ff231.css",
-    "main.js": "/mayabGymBuddy/static/js/main.087bd8df.js",
+    "main.css": "/mayabGymBuddy/static/css/main.0a6bfdf1.css",
+    "main.js": "/mayabGymBuddy/static/js/main.e835f723.js",
     "static/media/proteina.png": "/mayabGymBuddy/static/media/proteina.f17fa268de9346cd7cfa.png",
     "static/media/creatina.png": "/mayabGymBuddy/static/media/creatina.24c5631dc710d80cc644.png",
     "static/media/nutricion.webp": "/mayabGymBuddy/static/media/nutricion.53ba0f184312eaa79707.webp",
@@ -13,11 +13,11 @@
     "static/media/0405.gif": "/mayabGymBuddy/static/media/0405.3b899c891cfc5052d7dc.gif",
     "static/media/logo.svg": "/mayabGymBuddy/static/media/logo.53d4d321a5d4b8364542608b3186e30b.svg",
     "index.html": "/mayabGymBuddy/index.html",
-    "main.bf8ff231.css.map": "/mayabGymBuddy/static/css/main.bf8ff231.css.map",
-    "main.087bd8df.js.map": "/mayabGymBuddy/static/js/main.087bd8df.js.map"
+    "main.0a6bfdf1.css.map": "/mayabGymBuddy/static/css/main.0a6bfdf1.css.map",
+    "main.e835f723.js.map": "/mayabGymBuddy/static/js/main.e835f723.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf8ff231.css",
-    "static/js/main.087bd8df.js"
+    "static/css/main.0a6bfdf1.css",
+    "static/js/main.e835f723.js"
   ]
 }
